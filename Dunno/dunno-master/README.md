@@ -29,6 +29,3 @@ REACT_APP_API_KEY=<TMDB_API_KEY>
 npm start
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
